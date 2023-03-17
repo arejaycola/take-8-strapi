@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "takes",
+  "info": {
+    "singularName": "take",
+    "pluralName": "takes",
+    "displayName": "Take",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "parents": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::take.take"
+    },
+    "contributor": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "inversedBy": "takes"
+    },
+    "board": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::board.board",
+      "inversedBy": "takes"
+    }
+  }
+}
