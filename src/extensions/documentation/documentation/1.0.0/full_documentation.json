@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2023-03-17T16:54:39.828Z"
+    "x-generation-date": "2023-03-19T02:22:57.052Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -775,7 +775,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -1803,7 +1803,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -2864,7 +2864,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -3892,7 +3892,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -4325,7 +4325,7 @@
               "name": {
                 "type": "string"
               },
-              "Description": {
+              "description": {
                 "type": "string"
               },
               "creator": {
@@ -4369,7 +4369,7 @@
               "name": {
                 "type": "string"
               },
-              "Description": {
+              "description": {
                 "type": "string"
               },
               "creator": {
@@ -4973,7 +4973,7 @@
                                                                 "name": {
                                                                   "type": "string"
                                                                 },
-                                                                "Description": {
+                                                                "description": {
                                                                   "type": "string"
                                                                 },
                                                                 "creator": {
@@ -5360,7 +5360,7 @@
               "name": {
                 "type": "string"
               },
-              "Description": {
+              "description": {
                 "type": "string"
               },
               "creator": {
@@ -5964,7 +5964,7 @@
                                                                 "name": {
                                                                   "type": "string"
                                                                 },
-                                                                "Description": {
+                                                                "description": {
                                                                   "type": "string"
                                                                 },
                                                                 "creator": {
@@ -6384,7 +6384,7 @@
               "name": {
                 "type": "string"
               },
-              "Description": {
+              "description": {
                 "type": "string"
               },
               "creator": {
@@ -6988,7 +6988,7 @@
                                                                 "name": {
                                                                   "type": "string"
                                                                 },
-                                                                "Description": {
+                                                                "description": {
                                                                   "type": "string"
                                                                 },
                                                                 "creator": {
@@ -7375,7 +7375,7 @@
               "name": {
                 "type": "string"
               },
-              "Description": {
+              "description": {
                 "type": "string"
               },
               "creator": {
@@ -7979,7 +7979,7 @@
                                                                 "name": {
                                                                   "type": "string"
                                                                 },
-                                                                "Description": {
+                                                                "description": {
                                                                   "type": "string"
                                                                 },
                                                                 "creator": {
@@ -9035,7 +9035,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -10040,7 +10040,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -11078,7 +11078,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -12083,7 +12083,7 @@
                                                                   "name": {
                                                                     "type": "string"
                                                                   },
-                                                                  "Description": {
+                                                                  "description": {
                                                                     "type": "string"
                                                                   },
                                                                   "creator": {
@@ -18191,7 +18191,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
@@ -19155,7 +19155,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
@@ -20152,7 +20152,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
@@ -21116,7 +21116,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
@@ -21852,7 +21852,7 @@
                                                                                             "name": {
                                                                                               "type": "string"
                                                                                             },
-                                                                                            "Description": {
+                                                                                            "description": {
                                                                                               "type": "string"
                                                                                             },
                                                                                             "creator": {
@@ -22845,7 +22845,7 @@
                                                                                             "name": {
                                                                                               "type": "string"
                                                                                             },
-                                                                                            "Description": {
+                                                                                            "description": {
                                                                                               "type": "string"
                                                                                             },
                                                                                             "creator": {
@@ -23871,7 +23871,7 @@
                                                                                             "name": {
                                                                                               "type": "string"
                                                                                             },
-                                                                                            "Description": {
+                                                                                            "description": {
                                                                                               "type": "string"
                                                                                             },
                                                                                             "creator": {
@@ -24864,7 +24864,7 @@
                                                                                             "name": {
                                                                                               "type": "string"
                                                                                             },
-                                                                                            "Description": {
+                                                                                            "description": {
                                                                                               "type": "string"
                                                                                             },
                                                                                             "creator": {
@@ -26288,7 +26288,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
@@ -27351,7 +27351,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
@@ -28447,7 +28447,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
@@ -29510,7 +29510,7 @@
                                                                               "name": {
                                                                                 "type": "string"
                                                                               },
-                                                                              "Description": {
+                                                                              "description": {
                                                                                 "type": "string"
                                                                               },
                                                                               "creator": {
