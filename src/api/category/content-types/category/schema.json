@@ -29,6 +29,16 @@
       "relation": "oneToMany",
       "target": "api::board.board",
       "mappedBy": "category"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
