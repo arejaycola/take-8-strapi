@@ -89,6 +89,23 @@
       "relation": "manyToMany",
       "target": "api::board.board",
       "mappedBy": "contributors"
+    },
+    "first_name": {
+      "type": "string",
+      "required": true,
+      "maxLength": 50
+    },
+    "last_name": {
+      "type": "string",
+      "required": true,
+      "maxLength": 50
+    },
+    "profile_image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
