@@ -24,6 +24,7 @@ module.exports = [
         "https://localhost:3000",
         "http://wrestlingtournaments.com",
         'https://take8.vercel.app',
+        'https://strapi-production-213e.up.railway.app',
         '*'
 
       ],
