@@ -24,7 +24,8 @@ module.exports = [
         "https://localhost:3000",
         "http://wrestlingtournaments.com",
         'https://take8.vercel.app',
-        
+        '*'
+
       ],
       methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "HEAD", "OPTIONS"],
       headers: [
