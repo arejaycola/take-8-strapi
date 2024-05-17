@@ -25,7 +25,6 @@ module.exports = [
         "http://wrestlingtournaments.com",
         'https://take8.vercel.app',
         'https://strapi-production-213e.up.railway.app',
-        'https://strapi-production-213e.up.railway.app/api/auth/local'
       ],
       methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "HEAD", "OPTIONS"],
       headers: [
