@@ -14,7 +14,7 @@ module.exports = [
       },
     },
   },
-  /* {
+  {
     name: "strapi::cors",
     config: {
       origin: [
@@ -25,8 +25,7 @@ module.exports = [
         "http://wrestlingtournaments.com",
         'https://take8.vercel.app',
         'https://strapi-production-213e.up.railway.app',
-        '*'
-
+        'https://strapi-production-213e.up.railway.app/api/auth/local'
       ],
       methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "HEAD", "OPTIONS"],
       headers: [
@@ -37,24 +36,9 @@ module.exports = [
         "x-requested-with", // Add x-requested-with header
       ],
       keepHeaderOnError: true,
-    }, 
-  },*/
-  'strapi::poweredBy',
-   {
-    name: 'strapi::cors',
-    config: {
-      enabled: true,
-      headers: '*',
-      origin: ["http://localhost:3000",
-        "http://localhost:1337",
-        "http://localhost",
-        "https://localhost:3000",
-        "http://wrestlingtournaments.com",
-        'https://take8.vercel.app',
-        'https://strapi-production-213e.up.railway.app',
-        '*']
-    }
+    },
   },
+  'strapi::poweredBy',
   'strapi::logger',
   'strapi::query',
   'strapi::body',
